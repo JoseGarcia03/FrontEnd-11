@@ -4,8 +4,7 @@ import TablesList from '../components/TablesList';
 import { DivContentStyled } from '../styles/ContentStyle';
 import AddTask from '../components/AddTask';
 
-const Home = ({ t }) => {
-
+const Home = ({ t, sT }) => {
 
   return (
     <>
@@ -14,8 +13,8 @@ const Home = ({ t }) => {
       </Typography>
       <hr />
     <DivContentStyled>
-      <TablesList t={t} />
-      <AddTask />
+      <TablesList t={t} sT={sT} />
+      <AddTask sT={sT} />
     </DivContentStyled>
     </>
   )
