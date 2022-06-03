@@ -1,0 +1,14 @@
+{
+    "tareas": [
+        {
+            "name": "Realizar el Sprint 2",
+            "image": "https://www.wearetesters.com/wp-content/uploads/2018/11/MASCOTAS.jpg",
+            "description": "Realizar el sprint de acuerdo a las intrucciones que nos dejaron en el gitkraken"
+        },
+        {
+            "name": "Realizar el Sprint 3",
+            "image": "https://s3.amazonaws.com/static.om.anigamy.net/static.selecciones.com.ar/App/Article/4370-560df2d4e6e55.jpg",
+            "description": "Realizar el sprint de acuerdo a las intrucciones que nos dejaron en el gitkraken"
+        }
+    ]
+}
